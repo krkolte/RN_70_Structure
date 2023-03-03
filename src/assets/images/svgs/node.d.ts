@@ -1,0 +1,29 @@
+declare module 'localsvgimages' {
+  export const LOOT_SWAP_LOGO: any;
+  export const EMAIL_ICON: any;
+  export const SHOW_HIDE_PASS_ICON: any;
+  export const LOCK_ICON: any;
+  export const ADD_USER_ICON: any;
+  export const PROFILE_PLACEHOLDER_ICON: any;
+  export const EDIT_PROFILE_ICON: any;
+  export const BOTTOM_TAB_HOME: any;
+  export const BOTTOM_TAB_HOME_SELECTED: any;
+  export const BOTTOM_TAB_LOOT: any;
+  export const BOTTOM_TAB_LOOT_SELECTED: any;
+  export const BOTTOM_TAB_PROFILE: any;
+  export const BOTTOM_TAB_PROFILE_SELECTED: any;
+  export const BOTTOM_TAB_NOTIFICATION: any;
+  export const BOTTOM_TAB_NOTIFICATION_SELECTED: any;
+  export const BOTTOM_TAB_OFFERS: any;
+  export const BOTTOM_TAB_OFFERS_SELECTED: any;
+  export const PROFILE_TRIPPLE_DOT_ICON: any;
+  export const RIGHT_ARROW: any;
+  export const PROFILE_ADDRESS: any;
+  export const PROFILE_MY_LOOT: any;
+  export const PROFILE_ORDERS: any;
+  export const PROFILE_WALLET: any;
+  export const PROFILE_REFERRAL: any;
+  export const PROFILE_SUPPORT: any;
+  export const PROFILE_SIGN_OUT: any;
+  export const PROFILE_NOTIFICATION: any;
+}
